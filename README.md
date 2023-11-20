@@ -23,7 +23,7 @@ also in this project we will explore how electricity consumption and production 
 
 # Time Series Analysis: 
 In the project we've answered mainly these following questions: 
-Questions: 
+
 * when is electricity consumption typically highest and lowest? 
 * how do wind and solar power production vary with seasons of the year? 
 * what are the long-term trends in electricity consumption, solar power and wind power? 
